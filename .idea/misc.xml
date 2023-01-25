@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/drawable-v21/ic_menu_gallery.xml" value="0.3395" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3395" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3395" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/drawable/person.xml" value="0.362" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/drawable/reg.xml" value="0.2715" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/drawable/side_nav_bar.xml" value="0.3395" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/content_main.xml" value="0.1752786220871327" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/content_main2.xml" value="0.1" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/fragment_expenses.xml" value="0.3609375" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/fragment_gallery.xml" value="0.3609375" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/fragment_goals.xml" value="0.35989583333333336" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/fragment_home.xml" value="0.15081521739130435" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/fragment_reports.xml" value="0.3609375" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/fragment_savings.xml" value="0.35989583333333336" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/layout/nav_header_main.xml" value="0.18" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/menu/main.xml" value="0.18020833333333333" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/menu/nav_header.xml" value="0.30833333333333335" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/menu/navigation_menu.xml" value="0.30833333333333335" />
+        <entry key="..\:/OUSL/Software Engineering/Level 4/EEI4369 - Mobile Application development for Android/app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3395" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483028702382",
+    "firebase_url": "https://e-wallet-66ed0-default-rtdb.firebaseio.com",
+    "project_id": "e-wallet-66ed0",
+    "storage_bucket": "e-wallet-66ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483028702382:android:a8a1f82f6596a7fe86093f",
+        "android_client_info": {
+          "package_name": "com.lucky.e_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483028702382-500b1fih1l2abu2a3lchd42v5svdmk3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpEKKBQzmBhVFD_IPCWx3cglNw8yreJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483028702382-500b1fih1l2abu2a3lchd42v5svdmk3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
