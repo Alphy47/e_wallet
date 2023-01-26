@@ -33,7 +33,7 @@
         <activity
             android:name=".LoginActivity"
             android:exported="true" >
-            <intent-filter>
+            <intent-filter tools:ignore="ExtraText">
                 <action android:name="android.intent.action.MAIN" />
                 android:name="android.intent.category.LAUNCHER"
             </intent-filter>
